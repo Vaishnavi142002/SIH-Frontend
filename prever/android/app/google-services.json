@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "658274974210",
+    "project_id": "prever-b8f88",
+    "storage_bucket": "prever-b8f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658274974210:android:215d3d840bc8821417051b",
+        "android_client_info": {
+          "package_name": "com.prever.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658274974210-e5out2q5d4klce669oeg4a0qt5iul9a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prever.app",
+            "certificate_hash": "b42303cc3118061e56ee9328ebf409f20b2ec50e"
+          }
+        },
+        {
+          "client_id": "658274974210-lmcqrk13lc7nchmsp7k1vcaclj8tkcfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUzjP_5CelAnvRGPI7nRqftQGmVDbVoTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658274974210-lmcqrk13lc7nchmsp7k1vcaclj8tkcfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
